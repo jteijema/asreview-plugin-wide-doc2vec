@@ -1,0 +1,1 @@
+from asreviewcontrib.models.wide_doc2vec import wide_doc2vec
