@@ -38,7 +38,7 @@ setup(
         ]
     },
     project_urls={
-        'Bug Reports': 'https://github.com/JTeijema/ASReview-Model_Switcher/issues',
-        'Source': 'https://github.com/JTeijema/ASReview-Model_Switcher',
+        'Bug Reports': 'https://github.com/JTeijema/ASReview-wide_doc2vec/issues',
+        'Source': 'https://github.com/JTeijema/ASReview-wide_doc2vec',
     },
 )
