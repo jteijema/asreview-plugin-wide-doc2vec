@@ -93,7 +93,7 @@ class wide_doc2vec(BaseFeatureExtraction):
 
     def __init__(self,
                  *args,
-                 vector_size=200,
+                 vector_size=120,
                  epochs=33,
                  min_count=1,
                  n_jobs=1,
