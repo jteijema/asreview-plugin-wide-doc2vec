@@ -17,5 +17,8 @@ or
 python -m pip install git+https://github.com/JTeijema/ASReview-wide_doc2vec.git
 ```
 
+## Usage
+The new feature extractor can be used with `-e wide_doc2vec`
+
 ## License
 Apache-2.0 License 
