@@ -2,10 +2,10 @@ from setuptools import setup
 from setuptools import find_namespace_packages
 
 setup(
-    name='asreview-doc2vec-120vec',
+    name='asreview-plugin-wide-doc2vec',
     version='0.1',
-    description='Adds a wider doc2vec',
-    url='https://github.com/JTeijema/ASReview-Model_Switcher',
+    description='A plugin that adds a wider doc2vec',
+    url='https://github.com/JTeijema/asreview-plugin-wide-doc2vec/',
     author='ASReview team, Jelle Teijema',
     author_email='j.j.teijema@gmail.com',
     classifiers=[
@@ -38,7 +38,7 @@ setup(
         ]
     },
     project_urls={
-        'Bug Reports': 'https://github.com/JTeijema/ASReview-wide_doc2vec/issues',
-        'Source': 'https://github.com/JTeijema/ASReview-wide_doc2vec',
+        'Bug Reports': 'https://github.com/JTeijema/asreview-plugin-wide-doc2vec//issues',
+        'Source': 'https://github.com/JTeijema/asreview-plugin-wide-doc2vec/',
     },
 )
