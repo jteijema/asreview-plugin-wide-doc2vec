@@ -1,0 +1,39 @@
+{
+	"description": "This plugin adds a new feature extractor based on doc2vec with a wider vector.",
+	"title": "ASReview wide doc2vec plugin",
+	"creators": [{
+			"name": "Teijema, Jelle",
+			"affiliation": "Applied Data Science, Utrecht University, Utrecht, the Netherlands",
+			"orcid": "0000-0001-9282-4311"
+		}
+	],
+	"contributors": [
+		{
+			"name": "Hofstee, Laura",
+			"affiliation": "Department of Research and Data Management Services, Information Technology Services, Utrecht University, Utrecht, the Netherlands",
+			"orcid": "0000-0001-9638-7657",
+			"type": "Supervisor" 
+		},
+		{
+			"name": "Bagheri, Ayoub",
+			"affiliation": "Department of Research and Data Management Services, Information Technology Services, Utrecht University, Utrecht, the Netherlands",
+			"orcid": "0000-0001-6366-2173",
+			"type": "Supervisor" 
+		}
+	],
+	"keywords": [
+		"ASReview",
+		"text-classification",
+		"doc2vec",
+		"active learning",
+		"machine learning"
+	],
+	"related_identifiers": [
+		{
+			"relation": "isSupplementTo",
+		 	"identifier": "https://doi.org/10.5281/zenodo.3345592"
+		}
+	],
+	"license": "MIT",
+	"upload_type": "software"
+}
