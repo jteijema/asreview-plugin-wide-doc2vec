@@ -20,7 +20,11 @@ python -m pip install git+https://github.com/JTeijema/asreview-plugin-wide-doc2v
 ```
 
 ## Usage
-The new feature extractor can be used with `-e wide_doc2vec`.
+The new feature extractor can be used with `-e wide_doc2vec`:
+
+```bash
+asreview simulate benchmark:van_de_Schoot_2017 -m nn-2-layer -e wide_doc2vec
+```
 
 ## License
 Apache-2.0 License 
