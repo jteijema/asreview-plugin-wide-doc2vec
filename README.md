@@ -1,4 +1,8 @@
 # ASReview Wide Doc2Vec
+
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5084877.svg)](https://doi.org/10.5281/zenodo.5084877)
+
 This repository contains a plugin for [ASReview](https://github.com/asreview) ![logo](https://raw.githubusercontent.com/asreview/asreview-artwork/e2e6e5ea58a22077b116b9c3d2a15bc3fea585c7/SVGicons/IconELAS/ELASeyes24px24px.svg "ASReview"). This plugin adds a convolutional neural network (CNN) model, that has been shown to outperform classical algorithms.
 
 
