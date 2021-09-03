@@ -11,13 +11,12 @@ Apache-2.0 License
 
 ## Getting started
 
-Run install.sh or install the new classifier with:
+Install the new extractor with:
 
 ```bash
 pip install .
 ```
-
-or
+from the download folder or run the follow to install directly
 
 ```bash
 python -m pip install git+https://github.com/JTeijema/asreview-plugin-wide-doc2vec.git
